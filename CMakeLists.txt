@@ -3,4 +3,6 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(untitled curso_C_Aulura/main.c)
+add_executable(untitled curso_C_Aulura/main.c
+        curso_C_Aulura/primeiroPrograma.cpp
+        curso_C_Aulura/primeiroPrograma.h)
