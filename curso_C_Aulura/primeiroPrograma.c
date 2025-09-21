@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int primeiroPrograma(void) {
-    printf("BEm vindo ao jogo de adivinhação!\n");
+    printf("Bem vindo ao jogo de adivinhação!\n");
+    return 0;
 }
